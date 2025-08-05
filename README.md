@@ -2,8 +2,11 @@
 
 
 <h2>Description</h2>
-This project explores container management using Docker alone to understand the pain points before container orchestration tools like Kubernetes. It highlights how tasks like creation, scaling, and recovery were handled manually. The outcome was a hands-on understanding of why automation and orchestration are critical for scaling and reliability in modern DevOps environments. It also helped demonstrate the operational overhead that Kubernetes solves in real-world scenarios.
+This project involved manually managing Docker containers. It helped me understand real-world challenges like scaling, health checks, and recovery without orchestration. I gained practical insights into the risks and extra work of manual management. This highlights why Kubernetes’ automation, self-healing, and service discovery are essential for building reliable and scalable DevOps environments.
+
+<br>For a detailed explanation of the challenges of manual container management and how Kubernetes solves them, see the [Why Orchestration?](https://github.com/muhammadhassaan-solves/manual-container-management-without-kubernetes/blob/main/why_orchestration.md) document in this repository.
 <br />
+
 
 
 <h2>Tools and Technologies</h2>
