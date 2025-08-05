@@ -16,23 +16,23 @@ This project explores container management using Docker alone to understand the 
 <h2>Project Walk-through</h2>
 
 <p align="center">
-Manually scaled app by running multiple Docker containers on different ports. <br/>
+Manually scaled app by running multiple Docker containers on different ports <br/>
 <img src="https://i.postimg.cc/prw8GBR7/2.jpg" />
 <br />
 <br />
-Checked container availability using a custom script with curl commands. <br/>
+Checked container availability using a custom script with curl command <br/>
 <img src="https://i.postimg.cc/xT79XTP6/3.jpg"/>
 <br />
 <br />
-Simulated failure recovery by stopping and restarting containers manually.<br/>
+Simulated failure recovery by stopping and restarting containers manually <br/>
 <img src="https://i.postimg.cc/Y0Ky5ZNf/4.jpg" />
 <br />
 <br />
-Set up Nginx load balancer to distribute traffic across container instances. <br/>
+Set up Nginx load balancer to distribute traffic across container instances <br/>
 <img src="https://i.postimg.cc/zXgqRHGV/5.jpg"/>
 <br />
 <br />
-Cleaned up setup by stopping and removing all containers and Nginx manually. <br/>
+Cleaned up setup by stopping and removing all containers and Nginx manually <br/>
 <img src="https://i.postimg.cc/LXgZY6YR/7.jpg"/>
 <br />
 <br />
